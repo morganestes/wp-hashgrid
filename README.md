@@ -1,4 +1,4 @@
-# Plugin Name #
+# WP Hashgrid #
 **Contributors:** morganestes  
 **Tags:** hashgrid, design, overlay, grid, #grid  
 **Requires at least:** 3.5  

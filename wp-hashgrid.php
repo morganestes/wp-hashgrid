@@ -17,16 +17,18 @@ class WP_Hashgrid {
 	function __construct() {
 		add_action( 'wp_enqueue_scripts', array( &$this, 'load_assets' ) );
 
+		/*
 		if ( is_admin() ) {
 			add_action( 'admin_menu', array( $this, 'add_plugin_page' ) );
 			add_action( 'admin_init', array( $this, 'page_init' ) );
 		}
+		*/
 	}
 
 	function load_assets() {
 		/** @todo Make the CSS customizable via Admin page. */
-		wp_enqueue_script( 'wp-hashgrid', plugins_url( 'hashgrid.js', __FILE__ ), array( 'jquery' ), '9', true );
-		wp_enqueue_style( 'wp-hashgrid', plugins_url( 'hashgrid.css', __FILE__ ) );
+		wp_enqueue_script( 'wp-hashgrid', plugins_url( 'assets/hashgrid.js', __FILE__ ), array( 'jquery' ), '9', true );
+		wp_enqueue_style( 'wp-hashgrid', plugins_url( 'assets/hashgrid.css', __FILE__ ) );
 	}
 
 	public function add_plugin_page() {

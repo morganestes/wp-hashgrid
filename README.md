@@ -15,10 +15,6 @@ This plugin uses the `hashgrid.js` script to overlay a CSS-customizable grid.
 
 ## Installation ##
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload the `wp-hashgrid` folder and contents to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. Press the assigned hotkeys when viewing your website to display the grid.
@@ -41,8 +37,7 @@ Keep in mind that future releases of the plugin may override your custom setting
 ## Screenshots ##
 
 ###1. Default grid shown with the 2013 theme.###
-![Default grid shown with the 2013 theme.](http://s.wordpress.org/extend/plugins/plugin-name/screenshot-1.png)
-
+![Default grid shown with the 2013 theme.](http://s.wordpress.org/extend/plugins/wp-hashgrid/screenshot-1.png)
 
 ## Changelog ##
 

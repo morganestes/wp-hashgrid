@@ -1,5 +1,6 @@
 # WP Hashgrid #
 **Contributors:** morganestes  
+**Donate link:** http://morganestes.me/donate/  
 **Tags:** hashgrid, design, overlay, grid, #grid  
 **Requires at least:** 3.5  
 **Tested up to:** 3.5.3-alpha  
@@ -7,7 +8,7 @@
 **License:** GPLv3  
 **License URI:** https://www.gnu.org/licenses/gpl-3.0.html  
 
-Overlay a customizable grid over your site to help with design layout using the `hashgrid.js` library.
+Overlay a customizable grid over your site to help with design layout using the hashgrid.js library.
 
 ## Description ##
 
@@ -36,10 +37,14 @@ Keep in mind that future releases of the plugin may override your custom setting
 
 ## Screenshots ##
 
-###1. Default grid shown with the 2013 theme.###
-![Default grid shown with the 2013 theme.](http://s.wordpress.org/extend/plugins/wp-hashgrid/screenshot-1.png)
+### 1. Default grid shown with the 2013 theme. ###
+![1. Default grid shown with the 2013 theme.](http://s.wordpress.org/extend/plugins/wp-hashgrid/screenshot-1.png)
+
 
 ## Changelog ##
+### 0.1.1 ###
+
+Compatability check with 3.6.
 
 ### 0.1.0 ###
 

@@ -8,6 +8,9 @@ Author: Morgan Estes
 Author URI: http://morganestes.me
 License: GPLv3
 */
+
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
 /**
  * Class WP_Hashgrid
  */
@@ -99,5 +102,4 @@ class WP_Hashgrid {
 	}
 }
 
-$hashgrid = new WP_Hashgrid();
-
+$hashgrid = new WP_Hashgrid;

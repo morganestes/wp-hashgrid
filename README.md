@@ -1,9 +1,9 @@
-# WP Hashgrid #
+# WP Hashgrid # [![Build Status](https://travis-ci.org/morganestes/wp-hashgrid.png?branch=master)](https://travis-ci.org/morganestes/wp-hashgrid)
 **Contributors:** morganestes  
 **Donate link:** http://morganestes.me/donate/  
-**Tags:** hashgrid, design, overlay, grid, #grid  
+**Tags:** hashgrid, design, overlay, grid, #grid
 **Requires at least:** 3.5  
-**Tested up to:** 3.5.3-alpha  
+**Tested up to:** 3.5.6
 **Stable tag:** trunk  
 **License:** GPLv3  
 **License URI:** https://www.gnu.org/licenses/gpl-3.0.html  

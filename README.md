@@ -1,4 +1,4 @@
-# WP Hashgrid # [![Build Status](https://travis-ci.org/morganestes/wp-hashgrid.png?branch=master)](https://travis-ci.org/morganestes/wp-hashgrid)
+# WP Hashgrid [![Build Status](https://travis-ci.org/morganestes/wp-hashgrid.png?branch=master)](https://travis-ci.org/morganestes/wp-hashgrid)
 **Contributors:** morganestes  
 **Donate link:** http://morganestes.me/donate/  
 **Tags:** hashgrid, design, overlay, grid, #grid
